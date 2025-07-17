@@ -2,19 +2,19 @@
     <img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV4MTcyaTY2bDEwcmp1MTUxMnUxazlqM2p6ZG5ybHpjcnBwajIwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif">
 </p>
 
-<h1>Welcome!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1>Bienvenido!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-<div size='20px'> Hi! My name is Erick. Thank You for taking the time to visit my GitHub Profile :smile: 
+<div size='20px'> Hola! mi nombre es Erick :smile: 
 </div>
 
-<h2> About Me </h2>
+<h2> Sobre mí </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🛜 I’m currently working on  Soy Estudiante
   
 - 🌱 I’m currently learning Git, Java y GitHub
   
