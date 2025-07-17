@@ -12,7 +12,7 @@
 
 <h2> Sobre mí </h2>
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/banners/banner9.gif" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/banners/banner9.gif" />
 
 - 🛜 Soy Ingeniero en Redes y Telecomunicaciones.
   
